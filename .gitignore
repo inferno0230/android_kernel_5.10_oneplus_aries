@@ -157,3 +157,9 @@ x509.genkey
 
 # Documentation toolchain
 sphinx_*/
+
+build.sh
+out/
+error.log
+KernelSU
+drivers/kernelsu
