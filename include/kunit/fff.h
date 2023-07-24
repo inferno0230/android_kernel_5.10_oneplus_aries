@@ -1,1 +1,1 @@
-../../../vendor/oplus/kernel/system/include/fff.h
+../oplus/kernel/system/include/fff.h
